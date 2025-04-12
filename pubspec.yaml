@@ -35,7 +35,7 @@ dependencies:
 
   # Localization
   intl: ^0.20.2
-  easy_localization: ^3.0.7+1
+  # easy_localization: ^3.0.7+1
 
   # For Splash Screen
   flutter_native_splash: ^2.4.6
